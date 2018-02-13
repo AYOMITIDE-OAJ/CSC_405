@@ -1,0 +1,108 @@
+body{
+    background-image:url(home_page.jpg);
+    background-color:lightgrey;
+    background-repeat:no-repeat;
+    background-position:0 0;
+    background-size:cover;
+    background-attachment:fixed;
+}
+#top_header{
+     text-align: center;
+     color: greenyellow;
+    text-transform:uppercase;
+    text-shadow: 2px 2px red;
+    font-family: "Times New Roman",Times ,serif;
+}
+.menu_bar{
+    text-align:right;
+    color: chartreuse;
+}
+a:link{
+    color:darkgreen;
+    text-decoration:none;
+}
+a:visited{
+    color: darkseagreen;
+}
+a:hover{
+    background-color: darkgray;
+    color:red;
+    text-decoration: underline;
+    text-decoration-color:deepskyblue;
+    font-weight:bold;
+}
+a:active{
+    background-color: grey;
+}
+hr{
+   font-weight:500;
+}
+div{
+    position:absolute;
+    top: 600px;
+    left: 15px;
+    color:lightblue;
+}
+#aboutbody{
+    background-image:url(plain-backgrounds-7.jpg);
+    background-repeat:no-repeat;
+    background-position: 0 0;
+    background-size:cover;
+    background-attachment:scroll;
+}
+#about_header{
+    text-align: center;
+    text-transform:capitalize;
+    text-shadow: 1px 1px greenyellow;
+    color: red;
+    font-style: normal;
+    font-family: "Times New Roman",Times, serif;
+    font-size: 19px;
+}
+.main_tab{
+    font-family: "Times New Roman",Times, serif;
+    color:whitesmoke;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 130%;
+}
+#footer_base{
+    font-family: "Times New Roman",Times, serif;
+    color:lightblue;
+    
+}
+#Mebody{
+    background-image:url(Mebackground.jpg);
+    background-repeat:no-repeat;
+    background-position:0 0;
+    background-size:cover;
+    background-attachment: scroll;
+    font-family: "Times New Roman",Times, serif;
+    color:whitesmoke;
+    font-size: 19px;
+    font-style: normal;
+    line-height: 150%;
+}
+#me_header{
+    text-align: center;
+    text-transform: capitalize;
+    color: greenyellow;
+    text-shadow: 2px 2px red;
+    font-style: italic;
+    font-family: "Times New Roman",Times, serif;
+    font-size: 24px;
+}
+.left{
+    float:left;
+    padding: 0 20px 20px 0;
+    position: relative;
+}
+#footer_me{
+    font-family: "Times New Roman",Times, serif;
+    color:red;
+}
+#handles{
+    font-style: normal;
+    color:black;
+    font-size: 19px;
+
